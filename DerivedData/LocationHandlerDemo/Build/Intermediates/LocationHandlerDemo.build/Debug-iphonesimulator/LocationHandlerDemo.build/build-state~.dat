@@ -1,443 +1,0 @@
-TLocationHandlerDemo
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Info.plist LocationHandlerDemo/LocationHandlerDemo-Info.plist
-cProcessPCH /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch.pth LocationHandlerDemo/LocationHandlerDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/main.o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/AppDelegate.o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/MapViewController.o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/NMLocationHandler.o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
-c0000000051C21F1B0000000000000110
-t1371676443
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000051690F280000000000228FE0
-t1365839656
-s2265056
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000051690F2A00000000003DDFA0
-t1365839658
-s4054944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c0000000051690F2A00000000000015F7
-t1365839658
-s5623
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c0000000051690F300000000000000E8D
-t1365839664
-s3725
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000051690F320000000000AB6230
-t1365839666
-s11231792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
-c0000000051690F470000000000001B73
-t1365839687
-s7027
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/AppDelegate.o
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/LocationHandlerDemo.LinkFileList
-c0000000051CF2ACE000000000000036D
-t1372531406
-s877
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/MapViewController.o
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/NMLocationHandler.o
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch.pth
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app.dSYM
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Default-568h@2x.png
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Default.png
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Default@2x.png
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Info.plist
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/LocationHandlerDemo
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/PkgInfo
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/en.lproj/MainStoryboard.storyboardc
-t2
-s0
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/AppDelegate.m
-c0000000051CF2A3F00000000000007E3
-t1372531263
-s2019
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/Default-568h@2x.png
-c000000005112E13A00000000000048A2
-t1360191802
-s18594
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/Default.png
-c000000005112E13A000000000000198C
-t1360191802
-s6540
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/Default@2x.png
-c000000005112E13A0000000000003EEB
-t1360191802
-s16107
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/LocationHandlerDemo-Prefix.pch
-c0000000051CF2A3F0000000000000155
-t1372531263
-s341
-i<Availability.h>
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m
-c0000000051CF29810000000000001728
-t1372531073
-s5928
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m
-c0000000051CF281A0000000000001106
-t1372530714
-s4358
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/en.lproj/InfoPlist.strings
-c0000000051CF2A3F000000000000002D
-t1372531263
-s45
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/en.lproj/MainStoryboard.storyboard
-c0000000051CF2A7E0000000000000C65
-t1372531326
-s3173
-
-N/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/main.m
-c0000000051CF2A3F000000000000015C
-t1372531263
-s348
-
-NLocationHandlerDemo/LocationHandlerDemo-Info.plist
-c0000000051CF2AC6000000000000045F
-t1372531398
-s1119
-
-CBuild AST from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/AppDelegate.m
-r0
-
-CBuild AST from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m
-r0
-
-CBuild AST from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m
-r0
-
-CBuild AST from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies76deb64e627fb741^71c8ca4e627fb741^---0#1#0#--18"Check dependencies36"CF54C07A-9EEF-432B-BEE4-ACE9D0FF6D86-
-
-CCompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/AppDelegate.o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s394224207.714290
-e394224207.940966
-r1
-xCompileC
-xDerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/AppDelegate.o
-x/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/AppDelegate.m1214b74f627fb741^56eff04f627fb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/AppDelegate.m0000000000000000^4593"CompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/AppDelegate.o LocationHandlerDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-generated-files.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-own-target-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-all-target-headers.hmap -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-project-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources/i386 -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources -F/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator -include /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch -MMD -MT dependencies -MF /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/AppDelegate.dia -c /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/AppDelegate.m -o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/AppDelegate.o36"EFFC285B-2793-434C-A7C8-523A2B2C79E0-
-
-CCompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/MapViewController.o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s394224207.783440
-e394224208.520728
-r0
-xCompileC
-xDerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/MapViewController.o
-x/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oIn file included from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:10:
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:14:42: error: unknown type name 'CLLocation'
-otypedef void(^NMLocationCompletionBlock)(CLLocation *location, NSError *error);
-o                                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:15:41: error: unknown type name 'CLHeading'
-otypedef void(^NMHeadingCompletionBlock)(CLHeading *heading, NSError *error);
-o                                        ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:12:34: error: cannot find protocol declaration for 'CLLocationManagerDelegate'
-o@interface MapViewController () <CLLocationManagerDelegate>
-o                                 ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:14:38: error: unknown type name 'MKMapView'
-o@property (weak, nonatomic) IBOutlet MKMapView *mapView;
-o                                     ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:14:29: warning: property with 'iboutlet' attribute must be an object type (invalid 'int *') [-Winvalid-iboutlet]
-o@property (weak, nonatomic) IBOutlet MKMapView *mapView;
-o                            ^
-o<built-in>:23:33: note: expanded from macro 'IBOutlet'
-o#define IBOutlet __attribute__((iboutlet))
-o                                ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:14:29: warning: property with 'iboutlet' attribute must be an object type (invalid 'int *') [-Winvalid-iboutlet]
-o@property (weak, nonatomic) IBOutlet MKMapView *mapView;
-o                            ^
-o<built-in>:23:33: note: expanded from macro 'IBOutlet'
-o#define IBOutlet __attribute__((iboutlet))
-o                                ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:14:1: error: property with 'weak' attribute must be of object type
-o@property (weak, nonatomic) IBOutlet MKMapView *mapView;
-o^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:122:4: error: expected a type
-o- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id<MKAnnotation>)annotation {
-o   ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:122:32: error: expected a type
-o- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id<MKAnnotation>)annotation {
-o                               ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:122:74: error: cannot find protocol declaration for 'MKAnnotation'
-o- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id<MKAnnotation>)annotation {
-o                                                                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:143:18: error: expected a type
-o- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)annotationView didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState {
-o                 ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:143:54: error: expected a type
-o- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)annotationView didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState {
-o                                                     ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:143:108: error: expected a type
-o- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)annotationView didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState {
-o                                                                                                           ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:143:157: error: expected a type
-o- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)annotationView didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState {
-o                                                                                                                                                            ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:41:6: error: bad receiver type 'int *'
-o    [self.mapView addGestureRecognizer:tapRecognizer];
-o     ^~~~~~~~~~~~
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:72:58: error: expected ')'
-o    [self.locationHandler currentHeadingWithCompletion:^(CLHeading *heading, NSError *error) {
-o                                                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:72:57: note: to match this '('
-o    [self.locationHandler currentHeadingWithCompletion:^(CLHeading *heading, NSError *error) {
-o                                                        ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:72:56: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
-o    [self.locationHandler currentHeadingWithCompletion:^(CLHeading *heading, NSError *error) {
-o                                                       ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:72:56: error: incompatible block pointer types sending 'int ((^)(void))' to parameter of type 'NMHeadingCompletionBlock' (aka 'void (^)(int *, NSError *__strong)')
-o    [self.locationHandler currentHeadingWithCompletion:^(CLHeading *heading, NSError *error) {
-o                                                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:20:64: note: passing argument to parameter 'completion' here
-o- (void)currentHeadingWithCompletion:(NMHeadingCompletionBlock)completion;
-o                                                               ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:97:46: error: no known class method for selector 'customBarButtonItemWithTitle:target:action:'
-o    self.navigationItem.rightBarButtonItem = [UIBarButtonItem customBarButtonItemWithTitle:@"Готово" target:self action:@selector(done)];
-o                                             ^                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:124:36: error: use of undeclared identifier 'MKUserLocation'
-o    if ([annotation isKindOfClass:[MKUserLocation class]])
-o                                   ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:128:5: error: use of undeclared identifier 'MKPinAnnotationView'
-o    MKPinAnnotationView *pinAnnotationVeiw = (MKPinAnnotationView *)[mapView dequeueReusableAnnotationViewWithIdentifier:reuseId];
-o    ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:128:26: error: use of undeclared identifier 'pinAnnotationVeiw'
-o    MKPinAnnotationView *pinAnnotationVeiw = (MKPinAnnotationView *)[mapView dequeueReusableAnnotationViewWithIdentifier:reuseId];
-o                         ^
-ofatal error: too many errors emitted, stopping now [-ferror-limit=]
-o3 warnings and 20 errors generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m63b6c84f627fb741^7a6e8550627fb741^-7994"In file included from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:10:/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:14:42: error: unknown type name 'CLLocation'typedef void(^NMLocationCompletionBlock)(CLLocation *location, NSError *error);                                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:15:41: error: unknown type name 'CLHeading'typedef void(^NMHeadingCompletionBlock)(CLHeading *heading, NSError *error);                                        ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:12:34: error: cannot find protocol declaration for 'CLLocationManagerDelegate'@interface MapViewController () <CLLocationManagerDelegate>                                 ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:14:38: error: unknown type name 'MKMapView'@property (weak, nonatomic) IBOutlet MKMapView *mapView;                                     ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:14:29: warning: property with 'iboutlet' attribute must be an object type (invalid 'int *') [-Winvalid-iboutlet]@property (weak, nonatomic) IBOutlet MKMapView *mapView;                            ^<built-in>:23:33: note: expanded from macro 'IBOutlet'#define IBOutlet __attribute__((iboutlet))                                ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:14:29: warning: property with 'iboutlet' attribute must be an object type (invalid 'int *') [-Winvalid-iboutlet]@property (weak, nonatomic) IBOutlet MKMapView *mapView;                            ^<built-in>:23:33: note: expanded from macro 'IBOutlet'#define IBOutlet __attribute__((iboutlet))                                ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:14:1: error: property with 'weak' attribute must be of object type@property (weak, nonatomic) IBOutlet MKMapView *mapView;^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:122:4: error: expected a type- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id<MKAnnotation>)annotation {   ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:122:32: error: expected a type- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id<MKAnnotation>)annotation {                               ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:122:74: error: cannot find protocol declaration for 'MKAnnotation'- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id<MKAnnotation>)annotation {                                                                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:143:18: error: expected a type- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)annotationView didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState {                 ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:143:54: error: expected a type- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)annotationView didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState {                                                     ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:143:108: error: expected a type- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)annotationView didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState {                                                                                                           ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:143:157: error: expected a type- (void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)annotationView didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState {                                                                                                                                                            ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:41:6: error: bad receiver type 'int *'    [self.mapView addGestureRecognizer:tapRecognizer];     ^~~~~~~~~~~~/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:72:58: error: expected ')'    [self.locationHandler currentHeadingWithCompletion:^(CLHeading *heading, NSError *error) {                                                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:72:57: note: to match this '('    [self.locationHandler currentHeadingWithCompletion:^(CLHeading *heading, NSError *error) {                                                        ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:72:56: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]    [self.locationHandler currentHeadingWithCompletion:^(CLHeading *heading, NSError *error) {                                                       ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:72:56: error: incompatible block pointer types sending 'int ((^)(void))' to parameter of type 'NMHeadingCompletionBlock' (aka 'void (^)(int *, NSError *__strong)')    [self.locationHandler currentHeadingWithCompletion:^(CLHeading *heading, NSError *error) {                                                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:20:64: note: passing argument to parameter 'completion' here- (void)currentHeadingWithCompletion:(NMHeadingCompletionBlock)completion;                                                               ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:97:46: error: no known class method for selector 'customBarButtonItemWithTitle:target:action:'    self.navigationItem.rightBarButtonItem = [UIBarButtonItem customBarButtonItemWithTitle:@"Готово" target:self action:@selector(done)];                                             ^                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:124:36: error: use of undeclared identifier 'MKUserLocation'    if ([annotation isKindOfClass:[MKUserLocation class]])                                   ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:128:5: error: use of undeclared identifier 'MKPinAnnotationView'    MKPinAnnotationView *pinAnnotationVeiw = (MKPinAnnotationView *)[mapView dequeueReusableAnnotationViewWithIdentifier:reuseId];    ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m:128:26: error: use of undeclared identifier 'pinAnnotationVeiw'    MKPinAnnotationView *pinAnnotationVeiw = (MKPinAnnotationView *)[mapView dequeueReusableAnnotationViewWithIdentifier:reuseId];                         ^fatal error: too many errors emitted, stopping now [-ferror-limit=]3 warnings and 20 errors generated.-0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m0000000000000000^4629"CompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/MapViewController.o LocationHandlerDemo/MapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-generated-files.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-own-target-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-all-target-headers.hmap -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-project-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources/i386 -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources -F/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator -include /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch -MMD -MT dependencies -MF /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/MapViewController.d --serialize-diagnostics /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/MapViewController.dia -c /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/MapViewController.m -o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/MapViewController.o36"634454E2-84CA-4520-B58E-C358693E3A24-
-
-CCompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/NMLocationHandler.o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s394224207.942274
-e394224208.318529
-r0
-xCompileC
-xDerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/NMLocationHandler.o
-x/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oIn file included from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:7:
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:14:42: error: unknown type name 'CLLocation'
-otypedef void(^NMLocationCompletionBlock)(CLLocation *location, NSError *error);
-o                                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:15:41: error: unknown type name 'CLHeading'
-otypedef void(^NMHeadingCompletionBlock)(CLHeading *heading, NSError *error);
-o                                        ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:9:34: error: cannot find protocol declaration for 'CLLocationManagerDelegate'
-o@interface NMLocationHandler () <CLLocationManagerDelegate>
-o                                 ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:13:31: error: unknown type name 'CLLocationManager'; did you mean 'NMLocationHandler'?
-o@property (strong, nonatomic) CLLocationManager *locationManager;
-o                              ^~~~~~~~~~~~~~~~~
-o                              NMLocationHandler
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:17:12: note: 'NMLocationHandler' declared here
-o@interface NMLocationHandler : NSObject
-o           ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:22:4: error: expected a type
-o- (CLLocationManager *)locationManager {
-o   ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:89:26: error: expected a type
-o- (void)locationManager:(CLLocationManager *)manager didUpdateHeading:(CLHeading *)newHeading {
-o                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:89:72: error: expected a type
-o- (void)locationManager:(CLLocationManager *)manager didUpdateHeading:(CLHeading *)newHeading {
-o                                                                       ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:105:26: error: expected a type
-o- (void)locationManager:(CLLocationManager *)manager didUpdateToLocation:(CLLocation *)newLocation fromLocation:(CLLocation *)oldLocation {
-o                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:105:75: error: expected a type
-o- (void)locationManager:(CLLocationManager *)manager didUpdateToLocation:(CLLocation *)newLocation fromLocation:(CLLocation *)oldLocation {
-o                                                                          ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:105:114: error: expected a type
-o- (void)locationManager:(CLLocationManager *)manager didUpdateToLocation:(CLLocation *)newLocation fromLocation:(CLLocation *)oldLocation {
-o                                                                                                                 ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:118:26: error: expected a type
-o- (void)locationManager:(CLLocationManager *)manager didUpdateLocations:(NSArray *)locations {
-o                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:132:26: error: expected a type
-o- (void)locationManager:(CLLocationManager *)manager didFailWithError:(NSError *)error {
-o                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:26:30: error: unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?
-o        _locationManager = [[CLLocationManager alloc] init];
-o                             ^~~~~~~~~~~~~~~~~
-o                             NMLocationHandler
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:17:12: note: 'NMLocationHandler' declared here
-o@interface NMLocationHandler : NSObject
-o           ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:27:26: error: property 'delegate' not found on object of type 'NMLocationHandler *'
-o        _locationManager.delegate = self;
-o                         ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:42:14: error: unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?
-o        if ([CLLocationManager locationServicesEnabled]) {
-o             ^~~~~~~~~~~~~~~~~
-o             NMLocationHandler
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:17:12: note: 'NMLocationHandler' declared here
-o@interface NMLocationHandler : NSObject
-o           ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:42:13: error: no known class method for selector 'locationServicesEnabled'
-o        if ([CLLocationManager locationServicesEnabled]) {
-o            ^                  ~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:44:14: error: no visible @interface for 'NMLocationHandler' declares the selector 'startUpdatingLocation'
-o            [self.locationManager startUpdatingLocation];
-o             ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:67:14: error: unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?
-o        if ([CLLocationManager headingAvailable]) {
-o             ^~~~~~~~~~~~~~~~~
-o             NMLocationHandler
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:17:12: note: 'NMLocationHandler' declared here
-o@interface NMLocationHandler : NSObject
-o           ^
-o/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:67:13: error: no known class method for selector 'headingAvailable'
-o        if ([CLLocationManager headingAvailable]) {
-o            ^                  ~~~~~~~~~~~~~~~~
-ofatal error: too many errors emitted, stopping now [-ferror-limit=]
-o20 errors generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.mcc5ff14f627fb741^96b15150627fb741^-6415"In file included from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:7:/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:14:42: error: unknown type name 'CLLocation'typedef void(^NMLocationCompletionBlock)(CLLocation *location, NSError *error);                                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:15:41: error: unknown type name 'CLHeading'typedef void(^NMHeadingCompletionBlock)(CLHeading *heading, NSError *error);                                        ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:9:34: error: cannot find protocol declaration for 'CLLocationManagerDelegate'@interface NMLocationHandler () <CLLocationManagerDelegate>                                 ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:13:31: error: unknown type name 'CLLocationManager'; did you mean 'NMLocationHandler'?@property (strong, nonatomic) CLLocationManager *locationManager;                              ^~~~~~~~~~~~~~~~~                              NMLocationHandler/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:17:12: note: 'NMLocationHandler' declared here@interface NMLocationHandler : NSObject           ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:22:4: error: expected a type- (CLLocationManager *)locationManager {   ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:89:26: error: expected a type- (void)locationManager:(CLLocationManager *)manager didUpdateHeading:(CLHeading *)newHeading {                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:89:72: error: expected a type- (void)locationManager:(CLLocationManager *)manager didUpdateHeading:(CLHeading *)newHeading {                                                                       ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:105:26: error: expected a type- (void)locationManager:(CLLocationManager *)manager didUpdateToLocation:(CLLocation *)newLocation fromLocation:(CLLocation *)oldLocation {                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:105:75: error: expected a type- (void)locationManager:(CLLocationManager *)manager didUpdateToLocation:(CLLocation *)newLocation fromLocation:(CLLocation *)oldLocation {                                                                          ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:105:114: error: expected a type- (void)locationManager:(CLLocationManager *)manager didUpdateToLocation:(CLLocation *)newLocation fromLocation:(CLLocation *)oldLocation {                                                                                                                 ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:118:26: error: expected a type- (void)locationManager:(CLLocationManager *)manager didUpdateLocations:(NSArray *)locations {                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:132:26: error: expected a type- (void)locationManager:(CLLocationManager *)manager didFailWithError:(NSError *)error {                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:26:30: error: unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?        _locationManager = [[CLLocationManager alloc] init];                             ^~~~~~~~~~~~~~~~~                             NMLocationHandler/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:17:12: note: 'NMLocationHandler' declared here@interface NMLocationHandler : NSObject           ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:27:26: error: property 'delegate' not found on object of type 'NMLocationHandler *'        _locationManager.delegate = self;                         ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:42:14: error: unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?        if ([CLLocationManager locationServicesEnabled]) {             ^~~~~~~~~~~~~~~~~             NMLocationHandler/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:17:12: note: 'NMLocationHandler' declared here@interface NMLocationHandler : NSObject           ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:42:13: error: no known class method for selector 'locationServicesEnabled'        if ([CLLocationManager locationServicesEnabled]) {            ^                  ~~~~~~~~~~~~~~~~~~~~~~~/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:44:14: error: no visible @interface for 'NMLocationHandler' declares the selector 'startUpdatingLocation'            [self.locationManager startUpdatingLocation];             ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:67:14: error: unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?        if ([CLLocationManager headingAvailable]) {             ^~~~~~~~~~~~~~~~~             NMLocationHandler/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h:17:12: note: 'NMLocationHandler' declared here@interface NMLocationHandler : NSObject           ^/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:67:13: error: no known class method for selector 'headingAvailable'        if ([CLLocationManager headingAvailable]) {            ^                  ~~~~~~~~~~~~~~~~fatal error: too many errors emitted, stopping now [-ferror-limit=]20 errors generated.20(36%IDEClangDiagnosticActivityLogMessage2@30"Unknown type name 'CLLocation'-394224208#18446744073709551615#0#1(2@122"In file included from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:7:-394224208#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^6#8#6#8#77#0#30"Apple LLVM compiler 4.2 Notice--2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h0000000000000000^13#41#13#41#284#0#11"Parse Issue--2@29"Unknown type name 'CLHeading'-394224208#18446744073709551615#0#1(2@122"In file included from /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m:7:-394224208#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^6#8#6#8#77#0#30"Apple LLVM compiler 4.2 Notice--2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h0000000000000000^14#40#14#40#363#0#11"Parse Issue--2@64"Cannot find protocol declaration for 'CLLocationManagerDelegate'-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^8#33#8#33#133#0#14"Semantic Issue--2@72"Unknown type name 'CLLocationManager'; did you mean 'NMLocationHandler'?-394224208#18446744073709551615#0#1(2@33"'NMLocationHandler' declared here-394224208#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h0000000000000000^16#11#16#11#412#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^12#30#12#30#347#0#14"Semantic Issue1(3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^12#30#12#47#347#17#-2@15"Expected a type-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^21#3#21#3#518#0#11"Parse Issue--2@15"Expected a type-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^88#25#88#25#2638#0#11"Parse Issue--2@15"Expected a type-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^88#71#88#71#2684#0#11"Parse Issue--2@15"Expected a type-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^104#25#104#25#3101#0#11"Parse Issue--2@15"Expected a type-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^104#74#104#74#3150#0#11"Parse Issue--2@15"Expected a type-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^104#113#104#113#3189#0#11"Parse Issue--2@15"Expected a type-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^117#25#117#25#3576#0#11"Parse Issue--2@15"Expected a type-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^131#25#131#25#4020#0#11"Parse Issue--2@71"Unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?-394224208#18446744073709551615#0#1(2@33"'NMLocationHandler' declared here-394224208#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h0000000000000000^16#11#16#11#412#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^25#29#25#29#628#0#14"Semantic Issue1(3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^25#29#25#46#628#17#-2@69"Property 'delegate' not found on object of type 'NMLocationHandler *'-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^26#25#26#25#685#0#14"Semantic Issue--2@71"Unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?-394224208#18446744073709551615#0#1(2@33"'NMLocationHandler' declared here-394224208#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h0000000000000000^16#11#16#11#412#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^41#13#41#13#957#0#14"Semantic Issue1(3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^41#13#41#30#957#17#-2@60"No known class method for selector 'locationServicesEnabled'-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^41#12#41#12#956#0#18"ARC Semantic Issue1(3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^41#31#41#54#975#0#-2@91"No visible @interface for 'NMLocationHandler' declares the selector 'startUpdatingLocation'-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^43#13#43#13#1057#0#18"ARC Semantic Issue--2@71"Unknown receiver 'CLLocationManager'; did you mean 'NMLocationHandler'?-394224208#18446744073709551615#0#1(2@33"'NMLocationHandler' declared here-394224208#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.h0000000000000000^16#11#16#11#412#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^66#13#66#13#1849#0#14"Semantic Issue1(3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^66#13#66#30#1849#17#-2@53"No known class method for selector 'headingAvailable'-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^66#12#66#12#1848#0#18"ARC Semantic Issue1(3@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^66#31#66#47#1867#0#-2@37"Too many errors emitted, stopping now-394224208#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic-29"Apple LLVM compiler 4.2 Error--0#0#0#-19%DVTDocumentLocation4@113"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m0000000000000000^4629"CompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/NMLocationHandler.o LocationHandlerDemo/NMLocationHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-generated-files.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-own-target-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-all-target-headers.hmap -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-project-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources/i386 -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources -F/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator -include /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch -MMD -MT dependencies -MF /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/NMLocationHandler.d --serialize-diagnostics /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/NMLocationHandler.dia -c /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/NMLocationHandler.m -o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/NMLocationHandler.o36"C8F94076-A472-43F5-AB2D-3488305068E2-
-
-CCompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/main.o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s394224207.713729
-e394224207.782122
-r1
-xCompileC
-xDerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/main.o
-x/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/main.md525b74f627fb741^7c44c84f627fb741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/main.m0000000000000000^4551"CompileC DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/main.o LocationHandlerDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-generated-files.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-own-target-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-all-target-headers.hmap -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-project-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources/i386 -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources -F/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator -include /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch -MMD -MT dependencies -MF /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/main.dia -c /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/main.m -o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/Objects-normal/i386/main.o36"DD4F221F-0C3C-490E-A015-C3B00188BBA4-
-
-CCompileStoryboard /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/en.lproj/MainStoryboard.storyboard
-r0
-
-CCopyStringsFile /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/en.lproj/InfoPlist.strings LocationHandlerDemo/en.lproj/InfoPlist.strings
-r0
-
-CCpResource LocationHandlerDemo/Default-568h@2x.png DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Default-568h@2x.png
-r0
-
-CCpResource LocationHandlerDemo/Default.png DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Default.png
-r0
-
-CCpResource LocationHandlerDemo/Default@2x.png DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Default@2x.png
-r0
-
-CGenerateDSYMFile /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app.dSYM /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/LocationHandlerDemo
-r0
-
-CLd /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/LocationHandlerDemo normal i386
-r0
-
-CProcessInfoPlistFile /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Info.plist LocationHandlerDemo/LocationHandlerDemo-Info.plist
-s394224206.792649
-e394224206.797224
-r1
-xProcessInfoPlistFile
-x/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Info.plist
-xLocationHandlerDemo/LocationHandlerDemo-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Process LocationHandlerDemo/LocationHandlerDemo-Info.plistac00cb4e627fb741^1b13ce4e627fb741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/LocationHandlerDemo-Info.plist0000000000000000^914"ProcessInfoPlistFile DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Info.plist LocationHandlerDemo/LocationHandlerDemo-Info.plist    cd /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LocationHandlerDemo/LocationHandlerDemo-Info.plist -genpkginfo /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app/Info.plist36"7DAE2CB9-16E6-48FA-9E20-817619AA9BC5-
-
-CProcessPCH /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch.pth LocationHandlerDemo/LocationHandlerDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s394224206.805337
-e394224207.706909
-r1
-xProcessPCH
-x/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch.pth
-xLocationHandlerDemo/LocationHandlerDemo-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile LocationHandlerDemo/LocationHandlerDemo-Prefix.pch1310cf4e627fb741^200bb54f627fb741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/LocationHandlerDemo-Prefix.pch0000000000000000^4415"ProcessPCH DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch.pth LocationHandlerDemo/LocationHandlerDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-generated-files.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-own-target-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-all-target-headers.hmap -iquote /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/LocationHandlerDemo-project-headers.hmap -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources/i386 -I/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/LocationHandlerDemo.build/Debug-iphonesimulator/LocationHandlerDemo.build/DerivedSources -F/Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch.dia -c /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/LocationHandlerDemo/LocationHandlerDemo-Prefix.pch -o /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Intermediates/PrecompiledHeaders/LocationHandlerDemo-Prefix-gxewmzvezjrybvgjyravhcerzcyp/LocationHandlerDemo-Prefix.pch.d36"3C28C0A4-9B49-4FEE-BAD5-E22012264B19-
-
-CProcessPCH /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Index/PrecompiledHeaders/LocationHandlerDemo-Prefix-amvibvvqsnkhvydeumdmzaxrkkpn_ast/LocationHandlerDemo-Prefix.pch.pth LocationHandlerDemo/LocationHandlerDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/Numeral/Documents/Apps/Numeral/LocationHandlerDemo/DerivedData/LocationHandlerDemo/Build/Products/Debug-iphonesimulator/LocationHandlerDemo.app
-r0
-
