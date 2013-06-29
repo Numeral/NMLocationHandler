@@ -17,12 +17,15 @@
 		6E5459DC177F61BF001C853B /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E5459DB177F61BF001C853B /* Default@2x.png */; };
 		6E5459DE177F61BF001C853B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E5459DD177F61BF001C853B /* Default-568h@2x.png */; };
 		6E5459E1177F61BF001C853B /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E5459DF177F61BF001C853B /* MainStoryboard.storyboard */; };
-		6E5459E4177F61BF001C853B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E5459E3177F61BF001C853B /* ViewController.m */; };
 		6E5459EC177F61C0001C853B /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E5459EB177F61C0001C853B /* SenTestingKit.framework */; };
 		6E5459ED177F61C0001C853B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E5459C7177F61BF001C853B /* UIKit.framework */; };
 		6E5459EE177F61C0001C853B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E5459C9177F61BF001C853B /* Foundation.framework */; };
 		6E5459F6177F61C0001C853B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6E5459F4177F61C0001C853B /* InfoPlist.strings */; };
 		6E5459F9177F61C0001C853B /* LocationHandlerDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E5459F8177F61C0001C853B /* LocationHandlerDemoTests.m */; };
+		6E545A04177F61DC001C853B /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E545A03177F61DC001C853B /* MapViewController.m */; };
+		6E545A08177F6234001C853B /* NMLocationHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E545A07177F6234001C853B /* NMLocationHandler.m */; };
+		6E545A0A177F626D001C853B /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E545A09177F626D001C853B /* CoreLocation.framework */; };
+		6E545A0C177F62BD001C853B /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E545A0B177F62BD001C853B /* MapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,14 +53,18 @@
 		6E5459DB177F61BF001C853B /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		6E5459DD177F61BF001C853B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		6E5459E0177F61BF001C853B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		6E5459E2177F61BF001C853B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		6E5459E3177F61BF001C853B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6E5459EA177F61C0001C853B /* LocationHandlerDemoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocationHandlerDemoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E5459EB177F61C0001C853B /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		6E5459F3177F61C0001C853B /* LocationHandlerDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LocationHandlerDemoTests-Info.plist"; sourceTree = "<group>"; };
 		6E5459F5177F61C0001C853B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6E5459F7177F61C0001C853B /* LocationHandlerDemoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocationHandlerDemoTests.h; sourceTree = "<group>"; };
 		6E5459F8177F61C0001C853B /* LocationHandlerDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocationHandlerDemoTests.m; sourceTree = "<group>"; };
+		6E545A02177F61DC001C853B /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		6E545A03177F61DC001C853B /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		6E545A06177F6234001C853B /* NMLocationHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NMLocationHandler.h; sourceTree = "<group>"; };
+		6E545A07177F6234001C853B /* NMLocationHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NMLocationHandler.m; sourceTree = "<group>"; };
+		6E545A09177F626D001C853B /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		6E545A0B177F62BD001C853B /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +72,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E545A0C177F62BD001C853B /* MapKit.framework in Frameworks */,
+				6E545A0A177F626D001C853B /* CoreLocation.framework in Frameworks */,
 				6E5459C8177F61BF001C853B /* UIKit.framework in Frameworks */,
 				6E5459CA177F61BF001C853B /* Foundation.framework in Frameworks */,
 				6E5459CC177F61BF001C853B /* CoreGraphics.framework in Frameworks */,
@@ -106,6 +115,8 @@
 		6E5459C6177F61BF001C853B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6E545A0B177F62BD001C853B /* MapKit.framework */,
+				6E545A09177F626D001C853B /* CoreLocation.framework */,
 				6E5459C7177F61BF001C853B /* UIKit.framework */,
 				6E5459C9177F61BF001C853B /* Foundation.framework */,
 				6E5459CB177F61BF001C853B /* CoreGraphics.framework */,
@@ -117,11 +128,12 @@
 		6E5459CD177F61BF001C853B /* LocationHandlerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				6E545A05177F620E001C853B /* NMLocationHandler */,
 				6E5459D6177F61BF001C853B /* AppDelegate.h */,
 				6E5459D7177F61BF001C853B /* AppDelegate.m */,
 				6E5459DF177F61BF001C853B /* MainStoryboard.storyboard */,
-				6E5459E2177F61BF001C853B /* ViewController.h */,
-				6E5459E3177F61BF001C853B /* ViewController.m */,
+				6E545A02177F61DC001C853B /* MapViewController.h */,
+				6E545A03177F61DC001C853B /* MapViewController.m */,
 				6E5459CE177F61BF001C853B /* Supporting Files */,
 			);
 			path = LocationHandlerDemo;
@@ -158,6 +170,15 @@
 				6E5459F4177F61C0001C853B /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6E545A05177F620E001C853B /* NMLocationHandler */ = {
+			isa = PBXGroup;
+			children = (
+				6E545A06177F6234001C853B /* NMLocationHandler.h */,
+				6E545A07177F6234001C853B /* NMLocationHandler.m */,
+			);
+			name = NMLocationHandler;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -272,7 +293,8 @@
 			files = (
 				6E5459D4177F61BF001C853B /* main.m in Sources */,
 				6E5459D8177F61BF001C853B /* AppDelegate.m in Sources */,
-				6E5459E4177F61BF001C853B /* ViewController.m in Sources */,
+				6E545A04177F61DC001C853B /* MapViewController.m in Sources */,
+				6E545A08177F6234001C853B /* NMLocationHandler.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,7 +406,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LocationHandlerDemo/LocationHandlerDemo-Prefix.pch";
 				INFOPLIST_FILE = "LocationHandlerDemo/LocationHandlerDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -395,7 +419,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LocationHandlerDemo/LocationHandlerDemo-Prefix.pch";
 				INFOPLIST_FILE = "LocationHandlerDemo/LocationHandlerDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
