@@ -5,6 +5,12 @@ About
 =================
 NMLocationHandler is a simple CLLLocationManager wrapper that allows you determine current location and heading by calling appropriate method with a block.
 
+Requirements
+=================
+
+iOS 5
+ARC
+
 Installation
 =================
 
